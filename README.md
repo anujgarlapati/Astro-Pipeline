@@ -17,7 +17,9 @@ The architecture diagram created below highlights and breaks down project:
 ![Screenshot 2023-06-19 at 5 45 09 PM](https://github.com/anujgarlapati/Astro-Pipeline/assets/59670482/af6eaa54-b3c5-47a8-bbae-3f9c6eef55e7)
 
 
-## Airflow DAG: The following DAG in Airflow is represented in a graph form as below.
+## Airflow DAG
+
+The following DAG in Airflow is represented in a graph form as below.
 
 ![Screenshot 2023-06-19 at 5 59 18 PM](https://github.com/anujgarlapati/Astro-Pipeline/assets/59670482/6cf0afdb-8812-4340-95bd-8cf39eddce72)
 
